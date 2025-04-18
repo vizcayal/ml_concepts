@@ -15,7 +15,13 @@
       - Remove row
       - Imputing with average or median
       - Creating a model for predicting
-
+    - Nonnormal Distributions
+        -visualizations
+        -qq plots
+    - Kurtosis
+      - log / root square scaling
+    - Skewness
+    
 - Feature Selection
     - Remove features low variance
     - Forward selection
@@ -28,7 +34,10 @@
 - Feature Engineering
     
 - Model Selection
-    - Based on Complexity / interpretability / Computational Resources / Customer Needs
+    - Based on Complexity
+    - interpretability
+    - Computational Resources
+    - Customer Needs
 
 - Training
     - HyperPareters
@@ -45,4 +54,5 @@
     - Clustering 
        
 - Deployment
+  
 - Monitoring and Maintenance
